@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airplane3D.CSharp.Plugins", "airplane3D.CSharp.Plugins.csproj", "{8446BBED-BD92-40B4-308D-18D39784928D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airplane3D.CSharp", "airplane3D.CSharp.csproj", "{6207C1E5-B39D-F026-3994-37B918D43848}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airplane3D.CSharp.Editor", "airplane3D.CSharp.Editor.csproj", "{A3231201-7B38-B300-4870-3CED86E4BD55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8446BBED-BD92-40B4-308D-18D39784928D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8446BBED-BD92-40B4-308D-18D39784928D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8446BBED-BD92-40B4-308D-18D39784928D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8446BBED-BD92-40B4-308D-18D39784928D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6207C1E5-B39D-F026-3994-37B918D43848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6207C1E5-B39D-F026-3994-37B918D43848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6207C1E5-B39D-F026-3994-37B918D43848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6207C1E5-B39D-F026-3994-37B918D43848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3231201-7B38-B300-4870-3CED86E4BD55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3231201-7B38-B300-4870-3CED86E4BD55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3231201-7B38-B300-4870-3CED86E4BD55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3231201-7B38-B300-4870-3CED86E4BD55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
